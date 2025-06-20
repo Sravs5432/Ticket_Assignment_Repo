@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="Ticket Assignment">59606db893da6e10020e70d19dba102e</applet_launcher>
+        <order/>
+        <section display_value="Operations related">b9606db893da6e10020e70d19dba10bd</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-20 08:07:54</sys_created_on>
+        <sys_id>fd606db893da6e10020e70d19dba10be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Ticket Assignment" source="61be9df493da6e10020e70d19dba10bc">61be9df493da6e10020e70d19dba10bc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ticket Assignment">61be9df493da6e10020e70d19dba10bc</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_fd606db893da6e10020e70d19dba10be</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-20 08:07:54</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+</record_update>

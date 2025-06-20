@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <alert/>
+        <available_offline>true</available_offline>
+        <data_item/>
+        <description>Streamlining Ticket Assignment for Efficient Support Operations</description>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Folder-Open">d5606db893da6e10020e70d19dba102d</icon>
+        <item_view/>
+        <name>Operations related Form Screen</name>
+        <override_context_with_data_item>false</override_context_with_data_item>
+        <parameter_screen/>
+        <roles_override/>
+        <segments_height>medium</segments_height>
+        <segments_min_width>medium</segments_min_width>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-20 08:07:53</sys_created_on>
+        <sys_id>a9606db893da6e10020e70d19dba1088</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Operations related Form Screen</sys_name>
+        <sys_package display_value="Ticket Assignment" source="61be9df493da6e10020e70d19dba10bc">61be9df493da6e10020e70d19dba10bc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ticket Assignment">61be9df493da6e10020e70d19dba10bc</sys_scope>
+        <sys_update_name>sys_sg_form_screen_a9606db893da6e10020e70d19dba1088</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-20 08:07:53</sys_updated_on>
+        <table>u_operations_related</table>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Operations related Detail Screen View Config">6d606db893da6e10020e70d19dba106a</view_config>
+    </sys_sg_form_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=a9606db893da6e10020e70d19dba1088"/>
+</record_update>
