@@ -92,12 +92,11 @@ All screenshots are available in the `/screenshots` folder, including:
 
 ## 📂 Repository Structure
 servicenow-ticket-assignment
-├── README.md
-├── /exports/
-│ └── Ticket_Assignment_Automation.xml
-├── /screenshots/
-├──Project_Report.pdf
-└── demo_video.mp4
+1. README.md
+2. exports/ -- 2.1 Ticket_Assignment_Automation.xml
+3. screenshots/
+4. Project_Report.pdf
+5. demo_video.mp4
 
 
 
